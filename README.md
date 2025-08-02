@@ -3,7 +3,32 @@
 This repository contains the course material for **Advanced Generative Modeling**, 
 focusing on the mathematical foundations and practical implementations of modern generative models 
 using **PyTorch** and **JAX**.
+---
+The course also demonstrates generative modeling across **multiple data modalities**:
 
+- **Text**
+- **Image**
+- **Acoustic / Sound**
+
+The course is designed for learners who want a **deep mathematical understanding** followed by **hands-on model training**.
+
+---
+
+## Course Philosophy
+
+- **Theoretical Understanding with JAX**  
+  JAX is used to explore **mathematical derivations, gradient computations, and simplified prototypes**, 
+  giving learners a clear view of the underlying concepts.  
+
+- **Practical Implementation with PyTorch**  
+  PyTorch is used for **full-scale implementations, model training, and experimentation** 
+  on **text, image, and acoustic datasets**.
+
+By the end of this course, learners will be capable of **deriving, implementing, and evaluating** generative models across multiple domains.
+
+---
+
+---
 The course is divided into four main modules:  
 
 1. **Foundations of Generative AI**  
