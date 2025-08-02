@@ -81,7 +81,5 @@ By the end of this course, participants will be able to:
 - Evaluate generative models using **quantitative and qualitative metrics**.  
 - Apply generative models to **sampling, reconstruction, and domain adaptation** tasks.  
 
----
 
-## Repository Structure
 
