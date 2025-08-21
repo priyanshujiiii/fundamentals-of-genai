@@ -40,9 +40,11 @@ Both **mathematical derivations** and **hands-on implementations** are included.
 
 ---
 
-## Course Structure
+# Course Structure
 
-### Module 1: Foundations of Generative AI
+---
+
+## Module 1: Foundations of Generative AI
 1. Gen AI Basics  
 2. F-Divergence  
 3. Variational Divergence Minimization  
@@ -51,7 +53,7 @@ Both **mathematical derivations** and **hands-on implementations** are included.
 
 ---
 
-### Module 2: Generative Adversarial Networks (GANs)
+## Module 2: Generative Adversarial Networks (GANs)
 6. Generative Adversarial Network (GAN)  
 7. GANs as Classifier-Guided Generative Models  
 8. Deep Convolution GANs (DCGANs) and Conditional GANs (cGANs)  
@@ -64,7 +66,7 @@ Both **mathematical derivations** and **hands-on implementations** are included.
 
 ---
 
-### Module 3: Latent Variable Models & VAEs
+## Module 3: Latent Variable Models & VAEs
 15. Introduction to Latent Variable Models  
 16. Gaussian Mixture Models: Expectation-Maximization Algorithm  
 17. Evidence Lower Bound (ELBO)  
@@ -77,7 +79,7 @@ Both **mathematical derivations** and **hands-on implementations** are included.
 
 ---
 
-### Module 4: Diffusion Models (DDPMs)
+## Module 4: Diffusion Models (DDPMs)
 24. Denoising Diffusion Probabilistic Models (DDPMs)  
 25. DDPM: Formulation (Forward and Reverse Processes)  
 26. ELBO for DDPM  
@@ -87,8 +89,45 @@ Both **mathematical derivations** and **hands-on implementations** are included.
 30. U-Net (Backbone for DDPM)  
 31. Inference in DDPM  
 32. Implementation of DDPM  
+33. Alternate Interpretations of DDPMs  
+34. DDPMs as Score-Predictors  
+35. Guided Diffusion Models  
+36. Latent Diffusion Models (LDMs)  
+37. Denoising Diffusion Implicit Models (DDIMs)  
+38. Inference in DDIM  
+39. Implementation of DDPM Noise Estimation  
+40. Implementation of DDIM  
+41. Implementation of Guided DDPM  
 
 ---
+
+## Module 5: Auto-Regressive Models & Transformers
+42. Auto-Regressive Models  
+43. Attention Mechanism  
+44. Transformers for Auto-Regressive Models  
+45. Transformer Architecture  
+46. Transformers: Skip Connections and Normalization  
+47. Transformers: Position Embeddings  
+48. Transformers: Training and Inference  
+
+---
+
+## Module 6: Reinforcement Learning for Generative AI
+49. An Overview of Reinforcement Learning  
+50. Policy Gradient Theorem  
+51. Expressing an AR-LM as RL Policy  
+52. Proximal Policy Optimization (PPO)  
+53. Trust Region Policy Optimization (TRPO)  
+
+---
+
+## Module 7: Preference Optimization & State-Space Models
+54. Reward Modelling  
+55. Direct Preference Optimization (DPO)  
+56. State-Space Models  
+
+---
+
 
 ## Programming Frameworks
 
